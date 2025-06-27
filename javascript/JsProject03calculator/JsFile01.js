@@ -25,5 +25,5 @@ let result = document.getElementById("sum-el")
 
 function resultDisplay() {
     result.textContent = "Sum: " + numSum
-    console.log(numSum)
+    console.log(numSum)111111111
 }
