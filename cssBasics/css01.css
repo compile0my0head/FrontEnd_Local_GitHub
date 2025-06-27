@@ -1,0 +1,18 @@
+article {
+    color: red
+}
+
+.mainp {
+    color:blue
+}
+
+article span {
+    color:aqua
+}
+h1 {
+    font-size: 30px;
+}
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
